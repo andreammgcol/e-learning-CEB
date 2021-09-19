@@ -10905,3 +10905,25 @@ aside .side-inner .user-profile a.d-flex .user-pic img {
     display: none;
   }
 }
+
+.test {
+	color: black;
+	max-width: 700px;
+	height: 100%;
+	/* background: rgba(57, 159, 162, 0.075); */
+	padding-left: 3%;
+}
+
+.test-button {
+	width: 100px;
+	margin: 1.5rem 0 1.5rem 0;
+	background: #399FA2;
+	border: none;
+	color: white;
+	font-size: 16px;
+	border-radius: 5px;
+}
+
+.test-hr {
+	border-top: 1px solid #399FA2;
+}
